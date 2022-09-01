@@ -1,0 +1,61 @@
+		h1 {
+				color: rgb(22, 45, 33) ;
+				display: flex;
+				/*justify-content : center;
+				align-items: center;*/
+			}
+		img {
+				width: 400px;
+				
+			}
+		#thirtdDiv {
+				height: 710px;
+				width:  500px;
+				background-color : burlywood;
+				padding: 50px;
+				border : 8px solid orange;
+
+		}
+		#spanId{
+				font-size : 18px;
+				margin : 50px;
+				display: flex;
+				/*justify-content : center;
+				align-items: center;*/
+		}
+		
+		body {
+			background-image : url('https://cdn.sanity.io/images/jsdrzfkj/production-esmx/2fe4a7e905d9bc052724755adbc9f80ffcd976b2-1200x800.jpg?w=800&h=533&fit=crop');
+			background-repeat: no-repeat;
+			background-size: cover;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			flex-direction: column;
+
+		}
+		
+		div {
+				display: flex;
+				justify-content : center;
+				align-items: center;
+				flex-direction: column
+		}
+
+		/*h3 {
+			display: flex;
+			justify-content : center;
+			align-items: center;
+		}
+		h4  {
+			display: flex;
+			justify-content : center;
+			align-items: center;
+		}
+		a {
+			display: flex;
+			justify-content : center;
+			align-items: center;
+		}*/
+
+		

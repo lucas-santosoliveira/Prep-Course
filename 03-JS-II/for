@@ -1,0 +1,27 @@
+   *for
+// for es un statement que funciona como bucle, que nos va a ayudar a hacer una operación repetitiva de forma automatizada, por ejemplo si queremos imprimir los numeros del 1 al 500, solo basta con poner el codigo con los datos necesarios, en vez de estar escribiendo  1, 2, 3, 4, 5, etc. 
+  Este mismo codigo se divide en 3 partes
+   1. la variable que "for" va a utilizar para contar, asiganada a un valor;
+   2. condicion de frenado;
+   3. el paso, es decir, como quiero que se valla incrementando el valor de la variable asignada.
+ Este codigo se escribe de la siguiente manera: 
+//   for ( var i = 0; i => 500; i++ ) {
+       console.log (i)
+     }
+
+
+   * && , || , ! *
+
+// Aqui tenemos 3 operadores logicos, que trabajan solo con true y false.
+
+ &&: representa AND, que traducido al español es Y, claramente su significado salta a la vista, esta haciendo una agrupacion para mencionar dos cosas, como es un operador logico este solo trabaja con true y flase. Como trabajamos con dos variables, a (true) y b (false) por ejemplo,el resultado de a && b va a ser false, ya que para que en este operador logico me de true tengo que tener las dos variables true. 
+
+ ||: representa OR, que traducido al español es O, al igual que "&&" esta haciendo una mencion de mas de una cosa con la diferencia que en este operador logico nesecitamos que las dos variables sean flase para que me de ese tambien false en este operador logico (a || b).
+
+ !: representa la negación, entonces podemos decir que si lo traducimos significa NO, por ejemplo una variable que tenga un valor asignado el cual de resultado true (verdadero), si tiene un ´!´ antes de el nombre de la variable, automaticamente pasa a ser false (falso) y visceversa. Este operador logico actua como si le dieramos la vuelta a la moneda. Por ejemplo: 
+     a 
+   // true
+
+     !a
+   // false
+
